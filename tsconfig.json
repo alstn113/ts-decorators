@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    // 기본 설정
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+
+    // decorator를 사용하기 위함.
+    "experimentalDecorators": true,
+
+    // decorator를 사용하기 위함.
+    "emitDecoratorMetadata": true
+  }
+}
