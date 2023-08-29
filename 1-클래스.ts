@@ -1,4 +1,5 @@
 // 클래스 데코레이터
+// 생성자 함수를 유일한 인수로 받는다.
 function ClassDecorator(constructor: typeof PersonClass) {
   console.log('class decorator initialized');
 
