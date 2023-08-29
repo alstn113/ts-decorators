@@ -27,3 +27,8 @@
 ## 예제 실행 방법
 
 pnpm install && ts-node 파일 이름.ts
+
+## 참고 자료
+
+- https://dparkjm.com/typescript-decorators
+- https://wonism.github.io/what-is-decorator/
