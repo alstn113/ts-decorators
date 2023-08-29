@@ -11,7 +11,7 @@
     // decorator를 사용하기 위함.
     "experimentalDecorators": true,
 
-    // decorator를 사용하기 위함.
+    // 특정 타입에 대한 metadata를 내보낼 수 있도록 함.
     "emitDecoratorMetadata": true
   }
 }
